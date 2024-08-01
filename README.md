@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inzamamulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="inzamamulhaque" /> </p>
 
-- 🌱 I’m currently learning **Mern stack Developer**
+- 🌱 I’m currently learning **I am looking for opportunities to learn and grow with the company and contribute to its success in meaningful ways.**
 
 - 💬 Ask me about **Nodejs**
 
